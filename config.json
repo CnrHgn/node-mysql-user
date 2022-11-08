@@ -2,9 +2,9 @@
     "database": {
         "host": "127.0.0.1",
         "user": "root",
-        "password": "root",
-        "database": "tutorials",
-        "port": 8889
+        "password": "123456",
+        "database": "testdb",
+        "port": 3306
     },
     "secret": "thisisasecret"
 }
